@@ -12,5 +12,3 @@ Looks for
 - Personal Essay
 - Community Service
 - Recommendations
-
-HIIIIIII
